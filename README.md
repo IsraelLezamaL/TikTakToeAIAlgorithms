@@ -8,5 +8,5 @@ This code implements the classic game of "*TicTacToe*", where a human player com
 -  *TikTakToeEvalFunc.py*: Asigns a value to a given board (+10 if 'x' wins, 0 if it is a tie and -10 if 'o' wins).
 -  *MiniMaxTikTakToe.py*: Evaluates a given entry board, and calculates once the following optimal movement using MiniMax algorithm.
 -  *TikTakToe.py*: Simple useable human vs AI TikTakToe game using MiniMax Algorithm.
--  *TikTakToeOptimizadoAB*: Human vs AI TikTakToe game using MiniMax Algorithm, enhanced with Alpha-Beta Prunning Method to diminish response time.
--  *TikTakToeOptimizadoABinfalible*: Human vs AI TikTakToe game using MiniMax Algorithm, enhanced with Alpha-Beta Prunning Method to diminish response time. The code analyses 2-level possibilities depth, aking it impossible to defeat the algorithm (whenever the first move, which is aleatory, takes place on a corner).
+-  *TikTakToeOptimizadoAB.py*: Human vs AI TikTakToe game using MiniMax Algorithm, enhanced with Alpha-Beta Prunning Method to diminish response time.
+-  *TikTakToeOptimizadoABinfalible.py*: Human vs AI TikTakToe game using MiniMax Algorithm, enhanced with Alpha-Beta Prunning Method to diminish response time. The code analyses 2-level possibilities depth, aking it impossible to defeat the algorithm (whenever the first move, which is aleatory, takes place on a corner).
